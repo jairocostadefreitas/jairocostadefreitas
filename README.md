@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou Jairo Costa  
 
+## 📊 GitHub Stats  
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=jairocostadefreitas&show_icons=true&theme=dracula)](https://github.com/jairocostadefreitas)  
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jairocostadefreitas&layout=compact&theme=dracula)](https://github.com/jairocostadefreitas)  
+
 ## 🛠 Habilidades
 
 ### 🔌 Redes & Infraestrutura
@@ -23,25 +27,17 @@
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
-### 📜 Certificações
-- HCIP-Routing (Huawei)
-- MTCNA (MikroTik)
-- Outras que você possua
-
 ### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-## 📊 GitHub Stats  
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=jairocostadefreitas&show_icons=true&theme=dracula)](https://github.com/jairocostadefreitas)  
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jairocostadefreitas&layout=compact&theme=dracula)](https://github.com/jairocostadefreitas)  
 
 ## 📌 Projetos Destacados  
 - [Sistema de Leads](https://github.com/jairocostadefreitas/portfolio): Vue.js + Strapi  
 - [Monitoramento de Redes](https://github.com/jairocostadefreitas/network-tools): Zabbix + Grafana  
 
-## 📅 Atividade Recente  
-[![Grafico](https://github-readme-activity-graph.vercel.app/graph?username=jairocostadefreitas&theme=dracula)](https://github.com/jairocostadefreitas)  
-
 ## 📩 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/seuperfil)  
+
+
+## 📅 Atividade Recente  
+[![Grafico](https://github-readme-activity-graph.vercel.app/graph?username=jairocostadefreitas&theme=dracula)](https://github.com/jairocostadefreitas)  
