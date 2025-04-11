@@ -14,3 +14,6 @@
 
 ## 📅 Atividade Recente  
 [![Grafico](https://github-readme-activity-graph.vercel.app/graph?username=jairocostadefreitas&theme=dracula)](https://github.com/jairocostadefreitas)  
+
+## 📩 Contato  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/seuperfil)  
