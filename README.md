@@ -32,6 +32,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
+## 📊 GitHub Stats  
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=jairocostadefreitas&show_icons=true&theme=dracula)](https://github.com/jairocostadefreitas)  
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jairocostadefreitas&layout=compact&theme=dracula)](https://github.com/jairocostadefreitas)  
+
 ## 📌 Projetos Destacados  
 - [Sistema de Leads](https://github.com/jairocostadefreitas/portfolio): Vue.js + Strapi  
 - [Monitoramento de Redes](https://github.com/jairocostadefreitas/network-tools): Zabbix + Grafana  
