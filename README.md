@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou Jairo Costa  
 
-<!--
-**jairocostadefreitas/jairocostadefreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Habilidades  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)  
+![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)  
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats  
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=jairocostadefreitas&show_icons=true&theme=dracula)](https://github.com/jairocostadefreitas)  
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jairocostadefreitas&layout=compact&theme=dracula)](https://github.com/jairocostadefreitas)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos Destacados  
+- [Sistema de Leads](https://github.com/jairocostadefreitas/portfolio): Vue.js + Strapi  
+- [Monitoramento de Redes](https://github.com/jairocostadefreitas/network-tools): Zabbix + Grafana  
