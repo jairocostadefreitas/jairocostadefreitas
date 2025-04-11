@@ -11,3 +11,6 @@
 ## 📌 Projetos Destacados  
 - [Sistema de Leads](https://github.com/jairocostadefreitas/portfolio): Vue.js + Strapi  
 - [Monitoramento de Redes](https://github.com/jairocostadefreitas/network-tools): Zabbix + Grafana  
+
+## 📅 Atividade Recente  
+[![Grafico](https://github-readme-activity-graph.vercel.app/graph?username=jairocostadefreitas&theme=dracula)](https://github.com/jairocostadefreitas)  
