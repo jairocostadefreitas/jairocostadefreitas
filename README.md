@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou Jairo Costa  
 
-## 📊 GitHub Stats  
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=jairocostadefreitas&show_icons=true&theme=dracula)](https://github.com/jairocostadefreitas)  
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jairocostadefreitas&layout=compact&theme=dracula)](https://github.com/jairocostadefreitas)  
-
 ## 🛠 Habilidades
 
 ### 🔌 Redes & Infraestrutura
