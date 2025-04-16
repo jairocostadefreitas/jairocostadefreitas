@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou Jairo Costa  
+#  Olá, eu sou Jairo Costa  
 
-## 🛠 Habilidades
+## Habilidades
 
-### 🔌 Redes & Infraestrutura
+###  Redes & Infraestrutura
 ![Zabbix](https://img.shields.io/badge/Zabbix-DD0B20?logo=zabbix&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white)
@@ -12,28 +12,28 @@
 ![Datacom](https://img.shields.io/badge/Datacom-0056A3?logoColor=white)
 ![Furukawa](https://img.shields.io/badge/Furukawa-0072BB?logoColor=white)
 
-### 💻 Front-End
+###  Front-End
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?logo=quasar&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-### ⚙️ Back-End & CMS
+###  Back-End & CMS
 ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?logo=strapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
-### 🛠️ Ferramentas
+###  Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## 📌 Projetos Destacados  
+##  Projetos Destacados  
 - [Sistema de Leads](https://github.com/jairocostadefreitas/portfolio): Vue.js + Strapi  
 - [Monitoramento de Redes](https://github.com/jairocostadefreitas/network-tools): Zabbix + Grafana  
 
-## 📩 Contato  
+##  Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/jairo-freitas-6267a5325/)  
 
 
-## 📅 Atividade Recente  
+##  Atividade Recente  
 [![Grafico](https://github-readme-activity-graph.vercel.app/graph?username=jairocostadefreitas&theme=dracula)](https://github.com/jairocostadefreitas)  
