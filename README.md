@@ -32,7 +32,7 @@
 - [Monitoramento de Redes](https://github.com/jairocostadefreitas/network-tools): Zabbix + Grafana  
 
 ## 📩 Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/seuperfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/jairo-freitas-6267a5325/)  
 
 
 ## 📅 Atividade Recente  
